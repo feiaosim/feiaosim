@@ -1,2 +1,1 @@
-<main> 
- {deus é fiel}
+sim
